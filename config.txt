@@ -1,6 +1,6 @@
-token= 'NjEyMzAyODQ4MzA2MzE1Mjg0.XVgZeg._UXbZ-Z6kW5iGhVVoE8Fg3NdusE'
-owner= 600369127907131412
-prefix= 1
+token=NjEyMzAyODQ4MzA2MzE1Mjg0.XVgkvg.IisbfiWlfluvWQv7fayzNvW1Sw8
+owner=600369127907131412
+prefix=1
 game= 1play
 stayinchannel=true 
 songinstatus=true
